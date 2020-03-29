@@ -34,3 +34,5 @@ class Scraper
     end
   end
 end
+
+print_courses
